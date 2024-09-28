@@ -27,7 +27,7 @@ AC_HEADER_STDBOOL
 AC_TYPE_SIZE_T
 
 # Checks for library functions.
-AC_FUNC_MALLOC
+#AC_FUNC_MALLOC
 AC_CHECK_FUNCS([strrchr])
 
 AC_CONFIG_FILES([libbs2b.pc
